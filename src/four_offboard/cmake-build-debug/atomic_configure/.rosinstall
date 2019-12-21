@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/maybe/ros_ws/src/four_offboard/cmake-build-debug/devel/setup.sh

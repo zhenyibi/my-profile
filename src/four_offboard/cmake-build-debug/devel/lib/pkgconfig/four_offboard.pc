@@ -1,0 +1,8 @@
+prefix=/home/maybe/ros_ws/src/four_offboard/cmake-build-debug/devel
+
+Name: four_offboard
+Description: Description of four_offboard
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/maybe/ros_ws/src/four_offboard/cmake-build-debug/devel/lib 
+Requires: 
