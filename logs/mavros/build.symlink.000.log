@@ -1,0 +1,8 @@
+Symlinking /home/maybe/my-profile/devel/share/mavros/cmake/mavrosConfig.cmake
+Symlinking /home/maybe/my-profile/devel/share/mavros/cmake/mavrosConfig-version.cmake
+Symlinking /home/maybe/my-profile/devel/lib/libmavros.so
+Symlinking /home/maybe/my-profile/devel/lib/libmavros_plugins.so
+Symlinking /home/maybe/my-profile/devel/lib/python2.7/dist-packages/mavros/__init__.py
+Symlinking /home/maybe/my-profile/devel/lib/pkgconfig/mavros.pc
+Symlinking /home/maybe/my-profile/devel/lib/mavros/mavros_node
+Symlinking /home/maybe/my-profile/devel/lib/mavros/gcs_bridge

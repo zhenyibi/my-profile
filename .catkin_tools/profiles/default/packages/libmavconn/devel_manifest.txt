@@ -1,0 +1,7 @@
+mavros/libmavconn
+/home/maybe/my-profile/devel/.private/libmavconn/cmake.lock /home/maybe/my-profile/devel/./cmake.lock
+/home/maybe/my-profile/devel/.private/libmavconn/share/libmavconn/cmake/libmavconn-extras.cmake /home/maybe/my-profile/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+/home/maybe/my-profile/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig-version.cmake /home/maybe/my-profile/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
+/home/maybe/my-profile/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig.cmake /home/maybe/my-profile/devel/share/libmavconn/cmake/libmavconnConfig.cmake
+/home/maybe/my-profile/devel/.private/libmavconn/lib/libmavconn.so /home/maybe/my-profile/devel/lib/libmavconn.so
+/home/maybe/my-profile/devel/.private/libmavconn/lib/pkgconfig/libmavconn.pc /home/maybe/my-profile/devel/lib/pkgconfig/libmavconn.pc

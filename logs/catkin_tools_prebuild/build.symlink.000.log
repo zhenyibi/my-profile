@@ -1,0 +1,12 @@
+Symlinking /home/maybe/my-profile/devel/./env.sh
+Symlinking /home/maybe/my-profile/devel/./_setup_util.py
+Symlinking /home/maybe/my-profile/devel/./setup.zsh
+Symlinking /home/maybe/my-profile/devel/./local_setup.sh
+Symlinking /home/maybe/my-profile/devel/./setup.bash
+Symlinking /home/maybe/my-profile/devel/./local_setup.bash
+Symlinking /home/maybe/my-profile/devel/./local_setup.zsh
+Symlinking /home/maybe/my-profile/devel/./cmake.lock
+Symlinking /home/maybe/my-profile/devel/./setup.sh
+Symlinking /home/maybe/my-profile/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/maybe/my-profile/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/maybe/my-profile/devel/lib/pkgconfig/catkin_tools_prebuild.pc

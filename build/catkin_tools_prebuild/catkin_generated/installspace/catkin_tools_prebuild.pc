@@ -1,0 +1,8 @@
+prefix=/home/maybe/my-profile/install
+
+Name: catkin_tools_prebuild
+Description: Description of catkin_tools_prebuild
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/maybe/my-profile/install/lib 
+Requires: 

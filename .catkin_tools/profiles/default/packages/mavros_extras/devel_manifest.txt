@@ -1,0 +1,8 @@
+mavros/mavros_extras
+/home/maybe/my-profile/devel/.private/mavros_extras/cmake.lock /home/maybe/my-profile/devel/./cmake.lock
+/home/maybe/my-profile/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig.cmake /home/maybe/my-profile/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake
+/home/maybe/my-profile/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake /home/maybe/my-profile/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake
+/home/maybe/my-profile/devel/.private/mavros_extras/lib/libmavros_extras.so /home/maybe/my-profile/devel/lib/libmavros_extras.so
+/home/maybe/my-profile/devel/.private/mavros_extras/lib/mavros_extras/servo_state_publisher /home/maybe/my-profile/devel/lib/mavros_extras/servo_state_publisher
+/home/maybe/my-profile/devel/.private/mavros_extras/lib/mavros_extras/visualization /home/maybe/my-profile/devel/lib/mavros_extras/visualization
+/home/maybe/my-profile/devel/.private/mavros_extras/lib/pkgconfig/mavros_extras.pc /home/maybe/my-profile/devel/lib/pkgconfig/mavros_extras.pc

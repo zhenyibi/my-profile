@@ -1,0 +1,8 @@
+offboard
+/home/maybe/my-profile/devel/.private/offboard/cmake.lock /home/maybe/my-profile/devel/./cmake.lock
+/home/maybe/my-profile/devel/.private/offboard/share/offboard/cmake/offboardConfig-version.cmake /home/maybe/my-profile/devel/share/offboard/cmake/offboardConfig-version.cmake
+/home/maybe/my-profile/devel/.private/offboard/share/offboard/cmake/offboardConfig.cmake /home/maybe/my-profile/devel/share/offboard/cmake/offboardConfig.cmake
+/home/maybe/my-profile/devel/.private/offboard/lib/libmulti_offboard_lib.a /home/maybe/my-profile/devel/lib/libmulti_offboard_lib.a
+/home/maybe/my-profile/devel/.private/offboard/lib/pkgconfig/offboard.pc /home/maybe/my-profile/devel/lib/pkgconfig/offboard.pc
+/home/maybe/my-profile/devel/.private/offboard/lib/offboard/multi_offboard /home/maybe/my-profile/devel/lib/offboard/multi_offboard
+/home/maybe/my-profile/devel/.private/offboard/lib/offboard/offboard /home/maybe/my-profile/devel/lib/offboard/offboard

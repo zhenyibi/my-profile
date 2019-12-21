@@ -1,0 +1,10 @@
+mavros/mavros
+/home/maybe/my-profile/devel/.private/mavros/cmake.lock /home/maybe/my-profile/devel/./cmake.lock
+/home/maybe/my-profile/devel/.private/mavros/share/mavros/cmake/mavrosConfig.cmake /home/maybe/my-profile/devel/share/mavros/cmake/mavrosConfig.cmake
+/home/maybe/my-profile/devel/.private/mavros/share/mavros/cmake/mavrosConfig-version.cmake /home/maybe/my-profile/devel/share/mavros/cmake/mavrosConfig-version.cmake
+/home/maybe/my-profile/devel/.private/mavros/lib/libmavros.so /home/maybe/my-profile/devel/lib/libmavros.so
+/home/maybe/my-profile/devel/.private/mavros/lib/libmavros_plugins.so /home/maybe/my-profile/devel/lib/libmavros_plugins.so
+/home/maybe/my-profile/devel/.private/mavros/lib/python2.7/dist-packages/mavros/__init__.py /home/maybe/my-profile/devel/lib/python2.7/dist-packages/mavros/__init__.py
+/home/maybe/my-profile/devel/.private/mavros/lib/pkgconfig/mavros.pc /home/maybe/my-profile/devel/lib/pkgconfig/mavros.pc
+/home/maybe/my-profile/devel/.private/mavros/lib/mavros/mavros_node /home/maybe/my-profile/devel/lib/mavros/mavros_node
+/home/maybe/my-profile/devel/.private/mavros/lib/mavros/gcs_bridge /home/maybe/my-profile/devel/lib/mavros/gcs_bridge
