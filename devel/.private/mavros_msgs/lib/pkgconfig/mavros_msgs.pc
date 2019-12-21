@@ -1,8 +1,0 @@
-prefix=/home/maybe/my-profile/devel/.private/mavros_msgs
-
-Name: mavros_msgs
-Description: Description of mavros_msgs
-Version: 0.33.3
-Cflags: -I/home/maybe/my-profile/devel/.private/mavros_msgs/include -I/home/maybe/my-profile/src/mavros/mavros_msgs/include
-Libs: -L/home/maybe/my-profile/devel/.private/mavros_msgs/lib 
-Requires: geographic_msgs geometry_msgs message_runtime sensor_msgs std_msgs

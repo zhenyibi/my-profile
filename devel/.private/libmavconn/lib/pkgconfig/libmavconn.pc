@@ -1,8 +1,0 @@
-prefix=/home/maybe/my-profile/devel/.private/libmavconn
-
-Name: libmavconn
-Description: Description of libmavconn
-Version: 0.33.3
-Cflags: -I/home/maybe/my-profile/src/mavros/libmavconn/include -I/usr/include -I/home/maybe/my-profile/devel/include
-Libs: -L/home/maybe/my-profile/devel/.private/libmavconn/lib -lmavconn /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libconsole_bridge.so
-Requires: 

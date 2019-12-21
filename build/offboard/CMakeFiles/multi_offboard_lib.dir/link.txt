@@ -1,2 +1,0 @@
-/usr/bin/ar qc /home/maybe/my-profile/devel/.private/offboard/lib/libmulti_offboard_lib.a  CMakeFiles/multi_offboard_lib.dir/src/multi_offboard.cpp.o CMakeFiles/multi_offboard_lib.dir/src/PathCreator.cpp.o CMakeFiles/multi_offboard_lib.dir/src/FlightManager.cpp.o CMakeFiles/multi_offboard_lib.dir/src/avoidance.cpp.o CMakeFiles/multi_offboard_lib.dir/src/Multi_formation.cpp.o CMakeFiles/multi_offboard_lib.dir/src/util.cpp.o
-/usr/bin/ranlib /home/maybe/my-profile/devel/.private/offboard/lib/libmulti_offboard_lib.a

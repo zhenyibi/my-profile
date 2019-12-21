@@ -1,1 +1,0 @@
-/home/maybe/my-profile/devel/.private/offboard_pkg/lib/pkgconfig/offboard_pkg.pc

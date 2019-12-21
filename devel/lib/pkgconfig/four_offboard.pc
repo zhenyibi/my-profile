@@ -1,1 +1,0 @@
-/home/maybe/my-profile/devel/.private/four_offboard/lib/pkgconfig/four_offboard.pc

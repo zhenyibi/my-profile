@@ -1,6 +1,0 @@
-Symlinking /home/maybe/my-profile/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake
-Symlinking /home/maybe/my-profile/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake
-Symlinking /home/maybe/my-profile/devel/lib/libmavros_extras.so
-Symlinking /home/maybe/my-profile/devel/lib/mavros_extras/servo_state_publisher
-Symlinking /home/maybe/my-profile/devel/lib/mavros_extras/visualization
-Symlinking /home/maybe/my-profile/devel/lib/pkgconfig/mavros_extras.pc

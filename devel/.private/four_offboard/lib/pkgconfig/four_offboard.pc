@@ -1,8 +1,0 @@
-prefix=/home/maybe/my-profile/devel/.private/four_offboard
-
-Name: four_offboard
-Description: Description of four_offboard
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/maybe/my-profile/devel/.private/four_offboard/lib 
-Requires: 

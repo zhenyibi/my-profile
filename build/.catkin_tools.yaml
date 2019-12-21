@@ -1,6 +1,0 @@
-devel_space: /home/maybe/my-profile/devel
-install: false
-install_space: /home/maybe/my-profile/install
-profile: default
-source_space: /home/maybe/my-profile/src
-workspace: /home/maybe/my-profile
