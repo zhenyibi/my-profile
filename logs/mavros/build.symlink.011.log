@@ -1,0 +1,8 @@
+Linked: (/home/maybe/ros_ws/devel/.private/mavros/share/mavros/cmake/mavrosConfig.cmake, /home/maybe/ros_ws/devel/share/mavros/cmake/mavrosConfig.cmake)
+Linked: (/home/maybe/ros_ws/devel/.private/mavros/share/mavros/cmake/mavrosConfig-version.cmake, /home/maybe/ros_ws/devel/share/mavros/cmake/mavrosConfig-version.cmake)
+Linked: (/home/maybe/ros_ws/devel/.private/mavros/lib/libmavros.so, /home/maybe/ros_ws/devel/lib/libmavros.so)
+Linked: (/home/maybe/ros_ws/devel/.private/mavros/lib/libmavros_plugins.so, /home/maybe/ros_ws/devel/lib/libmavros_plugins.so)
+Linked: (/home/maybe/ros_ws/devel/.private/mavros/lib/python2.7/dist-packages/mavros/__init__.py, /home/maybe/ros_ws/devel/lib/python2.7/dist-packages/mavros/__init__.py)
+Linked: (/home/maybe/ros_ws/devel/.private/mavros/lib/pkgconfig/mavros.pc, /home/maybe/ros_ws/devel/lib/pkgconfig/mavros.pc)
+Linked: (/home/maybe/ros_ws/devel/.private/mavros/lib/mavros/mavros_node, /home/maybe/ros_ws/devel/lib/mavros/mavros_node)
+Linked: (/home/maybe/ros_ws/devel/.private/mavros/lib/mavros/gcs_bridge, /home/maybe/ros_ws/devel/lib/mavros/gcs_bridge)

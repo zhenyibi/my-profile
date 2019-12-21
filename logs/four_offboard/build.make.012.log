@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target four_offboard[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/four_offboard.dir/src/four_uav_offboard.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/maybe/ros_ws/devel/.private/four_offboard/lib/four_offboard/four_offboard[0m
+[100%] Built target four_offboard

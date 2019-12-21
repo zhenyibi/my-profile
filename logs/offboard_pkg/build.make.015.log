@@ -1,0 +1,17 @@
+[35m[1mScanning dependencies of target offboard_node[0m
+[ 33%] [32m[1mLinking CXX executable /home/maybe/ros_ws/devel/.private/offboard_pkg/lib/offboard_pkg/offboard_node[0m
+CMakeFiles/offboard_node.dir/src/offboard_node_origin.cpp.o:(.bss+0x0): multiple definition of `current_state'
+CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o:(.bss+0x60): first defined here
+CMakeFiles/offboard_node.dir/src/offboard_node_origin.cpp.o: In function `state_cb(boost::shared_ptr<mavros_msgs::State_<std::allocator<void> > const> const&)':
+offboard_node_origin.cpp:(.text+0x0): multiple definition of `state_cb(boost::shared_ptr<mavros_msgs::State_<std::allocator<void> > const> const&)'
+CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o:offboard_node.cpp:(.text+0x0): first defined here
+CMakeFiles/offboard_node.dir/src/offboard_node_origin.cpp.o: In function `main':
+offboard_node_origin.cpp:(.text+0x28): multiple definition of `main'
+CMakeFiles/offboard_node.dir/src/offboard_node.cpp.o:offboard_node.cpp:(.text+0x140): first defined here
+collect2: error: ld returned 1 exit status
+CMakeFiles/offboard_node.dir/build.make:139: recipe for target '/home/maybe/ros_ws/devel/.private/offboard_pkg/lib/offboard_pkg/offboard_node' failed
+make[2]: *** [/home/maybe/ros_ws/devel/.private/offboard_pkg/lib/offboard_pkg/offboard_node] Error 1
+CMakeFiles/Makefile2:1251: recipe for target 'CMakeFiles/offboard_node.dir/all' failed
+make[1]: *** [CMakeFiles/offboard_node.dir/all] Error 2
+Makefile:138: recipe for target 'all' failed
+make: *** [all] Error 2

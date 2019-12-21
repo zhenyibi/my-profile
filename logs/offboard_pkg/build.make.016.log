@@ -1,0 +1,3 @@
+[35m[1mScanning dependencies of target offboard_node[0m
+[ 50%] [32m[1mLinking CXX executable /home/maybe/ros_ws/devel/.private/offboard_pkg/lib/offboard_pkg/offboard_node[0m
+[100%] Built target offboard_node

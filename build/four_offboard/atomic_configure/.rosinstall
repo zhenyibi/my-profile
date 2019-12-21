@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/maybe/ros_ws/devel/.private/four_offboard/setup.sh

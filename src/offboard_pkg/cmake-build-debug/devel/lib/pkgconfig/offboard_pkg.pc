@@ -1,0 +1,8 @@
+prefix=/home/maybe/ros_ws/src/offboard_pkg/cmake-build-debug/devel
+
+Name: offboard_pkg
+Description: Description of offboard_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/maybe/ros_ws/src/offboard_pkg/cmake-build-debug/devel/lib 
+Requires: 

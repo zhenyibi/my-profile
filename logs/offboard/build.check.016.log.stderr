@@ -1,0 +1,13 @@
+[31m[1mCMake Error[0m at /home/maybe/ros_ws/src/offboard/CMakeLists.txt:132 (add_executable):
+  add_executable cannot create target "offboard" because another target with
+  the same name already exists.  The existing target is an executable created
+  in source directory "/home/maybe/ros_ws/src/offboard".  See documentation
+  for policy CMP0002 for more details.
+
+
+[31m[1mCMake Error[0m at /home/maybe/ros_ws/src/offboard/CMakeLists.txt:142 (target_link_libraries):
+  Cannot specify link libraries for target "multi_offboard" which is not
+  built by this project.
+
+
+make: *** [cmake_check_build_system] Error 1

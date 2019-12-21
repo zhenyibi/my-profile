@@ -1,0 +1,61 @@
+In file included from [01m[K/home/maybe/ros_ws/src/offboard/inc/FlightManager.hpp:9:0[m[K,
+                 from [01m[K/home/maybe/ros_ws/src/offboard/src/FlightManager.cpp:5[m[K:
+[01m[K/home/maybe/ros_ws/src/offboard/inc/Multi_formation.hpp:21:25:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+     ~MultiFormation() = default;
+[01;32m[K                         ^[m[K
+In file included from [01m[K/home/maybe/ros_ws/src/offboard/src/FlightManager.cpp:5:0[m[K:
+[01m[K/home/maybe/ros_ws/src/offboard/inc/FlightManager.hpp:43:24:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+     ~FlightManager() = default;
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/maybe/ros_ws/src/offboard/inc/multi_offboard.hpp:18:0[m[K,
+                 from [01m[K/home/maybe/ros_ws/src/offboard/src/multi_offboard.cpp:9[m[K:
+[01m[K/home/maybe/ros_ws/src/offboard/inc/Multi_formation.hpp:21:25:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+     ~MultiFormation() = default;
+[01;32m[K                         ^[m[K
+In file included from [01m[K/home/maybe/ros_ws/src/offboard/inc/multi_offboard.hpp:19:0[m[K,
+                 from [01m[K/home/maybe/ros_ws/src/offboard/src/multi_offboard.cpp:9[m[K:
+[01m[K/home/maybe/ros_ws/src/offboard/inc/FlightManager.hpp:43:24:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+     ~FlightManager() = default;
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/maybe/ros_ws/src/offboard/src/multi_offboard.cpp:9:0[m[K:
+[01m[K/home/maybe/ros_ws/src/offboard/inc/multi_offboard.hpp:39:24:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+     ~MultiOffboard() = default;
+[01;32m[K                        ^[m[K
+[01m[K/home/maybe/ros_ws/src/offboard/inc/multi_offboard.hpp:116:24:[m[K [01;35m[Kwarning: [m[Knon-static data member initializers only available with -std=c++11 or -std=gnu++11
+     bool is_offboard = false;
+[01;32m[K                        ^[m[K
+[01m[K/home/maybe/ros_ws/src/offboard/inc/multi_offboard.hpp:117:21:[m[K [01;35m[Kwarning: [m[Knon-static data member initializers only available with -std=c++11 or -std=gnu++11
+     bool is_armed = false;
+[01;32m[K                     ^[m[K
+[01m[K/home/maybe/ros_ws/src/offboard/inc/multi_offboard.hpp:118:22:[m[K [01;35m[Kwarning: [m[Knon-static data member initializers only available with -std=c++11 or -std=gnu++11
+     bool usv_armed = false;
+[01;32m[K                      ^[m[K
+[01m[K/home/maybe/ros_ws/src/offboard/inc/multi_offboard.hpp:126:22:[m[K [01;35m[Kwarning: [m[Knon-static data member initializers only available with -std=c++11 or -std=gnu++11
+     int uav_state_ = TAKEOFF;
+[01;32m[K                      ^[m[K
+In file included from [01m[K/home/maybe/ros_ws/src/offboard/inc/multi_offboard.hpp:18:0[m[K,
+                 from [01m[K/home/maybe/ros_ws/src/offboard/src/main.cpp:5[m[K:
+[01m[K/home/maybe/ros_ws/src/offboard/inc/Multi_formation.hpp:21:25:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+     ~MultiFormation() = default;
+[01;32m[K                         ^[m[K
+In file included from [01m[K/home/maybe/ros_ws/src/offboard/inc/multi_offboard.hpp:19:0[m[K,
+                 from [01m[K/home/maybe/ros_ws/src/offboard/src/main.cpp:5[m[K:
+[01m[K/home/maybe/ros_ws/src/offboard/inc/FlightManager.hpp:43:24:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+     ~FlightManager() = default;
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/maybe/ros_ws/src/offboard/src/main.cpp:5:0[m[K:
+[01m[K/home/maybe/ros_ws/src/offboard/inc/multi_offboard.hpp:39:24:[m[K [01;35m[Kwarning: [m[Kdefaulted and deleted functions only available with -std=c++11 or -std=gnu++11
+     ~MultiOffboard() = default;
+[01;32m[K                        ^[m[K
+[01m[K/home/maybe/ros_ws/src/offboard/inc/multi_offboard.hpp:116:24:[m[K [01;35m[Kwarning: [m[Knon-static data member initializers only available with -std=c++11 or -std=gnu++11
+     bool is_offboard = false;
+[01;32m[K                        ^[m[K
+[01m[K/home/maybe/ros_ws/src/offboard/inc/multi_offboard.hpp:117:21:[m[K [01;35m[Kwarning: [m[Knon-static data member initializers only available with -std=c++11 or -std=gnu++11
+     bool is_armed = false;
+[01;32m[K                     ^[m[K
+[01m[K/home/maybe/ros_ws/src/offboard/inc/multi_offboard.hpp:118:22:[m[K [01;35m[Kwarning: [m[Knon-static data member initializers only available with -std=c++11 or -std=gnu++11
+     bool usv_armed = false;
+[01;32m[K                      ^[m[K
+[01m[K/home/maybe/ros_ws/src/offboard/inc/multi_offboard.hpp:126:22:[m[K [01;35m[Kwarning: [m[Knon-static data member initializers only available with -std=c++11 or -std=gnu++11
+     int uav_state_ = TAKEOFF;
+[01;32m[K                      ^[m[K
